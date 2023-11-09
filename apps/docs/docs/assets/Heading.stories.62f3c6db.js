@@ -1,0 +1,2 @@
+import{H as r}from"./index.2bd31c51.js";import"./index.2064f4f4.js";import"./jsx-runtime.5bea8752.js";import"./index.058fda24.js";var i={title:"Typography/Heading",component:r,args:{children:"Bem-vindo"}};const t={},m={args:{children:"Cabe\xE7alho com h1",as:"h1"},parameters:{docs:{description:{story:"Por padr\xE3o o heading sempre ser\xE1 um `h2`, mas podemos alterar isso com a propriedade `as`"}}}},d=["Primary","Semantic"];export{t as Primary,m as Semantic,d as __namedExportsOrder,i as default};
+//# sourceMappingURL=Heading.stories.62f3c6db.js.map

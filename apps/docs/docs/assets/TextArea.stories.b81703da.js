@@ -1,0 +1,2 @@
+import{b as e,B as a,T as s}from"./index.2bd31c51.js";import{a as o,j as t}from"./jsx-runtime.5bea8752.js";import"./index.2064f4f4.js";import"./index.058fda24.js";var c={title:"Form/Text Area",component:e,decorators:[r=>o(a,{as:"label",css:{display:"flex",flexDirection:"column",gap:"$2",margin:"0 auto"},children:[t(s,{size:"sm",children:"Observa\xE7\xF5es"}),r()]})]};const n={args:{placeholder:"Digite observa\xE7\xF5es adicionais"}},p=["Primary"];export{n as Primary,p as __namedExportsOrder,c as default};
+//# sourceMappingURL=TextArea.stories.b81703da.js.map

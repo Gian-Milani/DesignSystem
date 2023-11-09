@@ -1,0 +1,2 @@
+import{B as r,H as a,T as o}from"./index.2bd31c51.js";import{a as e,F as i,j as s}from"./jsx-runtime.5bea8752.js";import"./index.2064f4f4.js";import"./index.058fda24.js";var x={title:"Surfaces/Box",component:r,args:{}};const c={args:{children:e(i,{children:[s(a,{children:"Meus dados"}),s(o,{size:"sm",css:{color:"$gray400"},children:"Seus dados est\xE3o dispon\xEDveis abaixo."})]})}},p=["Primary"];export{c as Primary,p as __namedExportsOrder,x as default};
+//# sourceMappingURL=Box.stories.4fadc507.js.map
